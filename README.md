@@ -1,1 +1,1 @@
-# [Visit site REACT-HW-02-FEEDBACK](https://kamiltrzmiel.github.io/goit-react-hw-02-feedback/)
+# [Visit site](https://kamiltrzmiel.github.io/react-02-feedback/)
